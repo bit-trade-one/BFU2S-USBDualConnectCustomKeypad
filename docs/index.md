@@ -1,6 +1,4 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
-## USBデュアルコネクトカスタムキーパッド サポートサイト
-
 ## 設定ツール
 - __ダウンロードリンク(Ver.)__
 - 設定ツール使用方法
