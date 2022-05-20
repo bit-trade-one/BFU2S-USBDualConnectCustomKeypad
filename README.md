@@ -46,11 +46,11 @@ exp.
 ソフトの使い方、ライブラリの使い方などがWordなどである場合は、
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
+## Link
+### [HP](http://bit-trade-one.co.jp/) 
 
-# [製品の詳細はこちら](http://bit-trade-one.co.jp/) 
-
-## [マニュアル](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
-
+### [SupportSite(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+<!--
 ## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
 ## [ファームウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Firmware/)
@@ -84,6 +84,7 @@ exp.
 
 [ラズパイマガジンXX年Y月号]()  
 [Pc Watch]()
+-->
 
 ## 製品仕様
     【対応OS】Windows7以降
