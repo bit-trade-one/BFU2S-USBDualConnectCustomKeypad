@@ -1,4 +1,4 @@
-# -ADXXXXX-Template
+# BFU2S-USBDualConnectCustomKeypad
 
 ## ここに見出し
 
