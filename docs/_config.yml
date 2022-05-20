@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+locale: "ja-JP"
 title: BFU2Sサポート
 description: USBデュアルコネクトカスタムキーパッドのサポートサイトです。
 show_downloads: false
