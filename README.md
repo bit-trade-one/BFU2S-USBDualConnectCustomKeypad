@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # BFU2S-USBDualConnectCustomKeypad
 一つのコントローラで2つのPC等を同時制御するために開発された、  
 プログラマブルな12キーを搭載するHIDデバイス  
