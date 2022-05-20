@@ -1,4 +1,4 @@
-# BFU2S-USBDualConnectCustomKeypad よくある質問
+# BFU2S-よくある質問
 
 ## Q.2つの端子間は絶縁されていますか
 
