@@ -18,7 +18,7 @@ USBが接続されると上部赤LEDが光ります。
 - [Q&A]()
 
 ## 設計データ
-- [寸法図](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/blob/master/Dimensions/BFU2S%E5%AF%B8%E6%B3%95.png)
+- [寸法図](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/blob/master/Dimensions/BFU2S%E5%AF%B8%E6%B3%95.png)  
 <img src="https://raw.githubusercontent.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/master/Dimensions/BFU2S%E5%AF%B8%E6%B3%95.png" width="720px">  
 
 - [回路図](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/blob/master/Schematics/BFU2S-Schematics.pdf)  
