@@ -4,6 +4,14 @@
 - 設定ツール使用方法
 
 ## 概要
+
+一つのプログラマブルキーを押すと2つのPCにに対して同時に信号を送ることが出来ます。  
+![BBFU2S入力例AA](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BFU2S入力例AA.png)  
+
+それぞれ異なる信号を同時に送ることも可能です。  
+![BBFU2S入力例AB](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BBFU2S入力例AB.png)  
+
+
 画像  
 プログラマブルキーが12個あります。  
   
