@@ -42,7 +42,7 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 ## Link
-- ### [BFU2S-BTO製品ページ](http://bit-trade-one.co.jp/) 
+- ### [BFU2S-BTO製品ページ](https://bit-trade-one.co.jp/bfu2s) 
 製品の詳細を掲載しています。
 - ### [BFU2S-サポートサイト(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 使い方はこちらに記載がございます。
