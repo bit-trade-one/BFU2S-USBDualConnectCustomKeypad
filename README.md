@@ -1,11 +1,6 @@
 # BFU2S-USBDualConnectCustomKeypad
-
-## ここに見出し
-
-![タイトル画像のURLを右のカッコに]()
-
-「●●●●●」はほにゃららするためのなんちゃらボード。  
-この製品を使用する事でもにょもにょがぺけぺけできる。  
+一つのコントローラで2つのPC等を同時制御するために開発された、プログラマブルな12キーを搭載するHIDデバイス  
+「2PC同時操作用USBデュアルコネクトカスタムキーパッド」のリポジトリです。
 
 <!--
 改行する場合、文末に半角スペース2個を置く
@@ -47,9 +42,10 @@ exp.
 各情報フォルダにMarkdown形式に起こし"Readme.md"という名前で保存すること
 -->
 ## Link
-### [HP](http://bit-trade-one.co.jp/) 
-
-### [サポートサイト(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+- ### [BFU2S-BTO製品ページ](http://bit-trade-one.co.jp/) 
+製品の詳細を掲載しています。
+- ### [BFU2S-サポートサイト(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+使い方はこちらに記載がございます。
 <!--
 ## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
@@ -84,7 +80,7 @@ exp.
 
 [ラズパイマガジンXX年Y月号]()  
 [Pc Watch]()
--->
+
 
 ## 製品仕様
     【対応OS】Windows7以降
@@ -97,3 +93,4 @@ exp.
     【保証期間】 1年間
     【付属品】保証書 1部
     【生産国】Made in Japan
+-->
