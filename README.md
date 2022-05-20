@@ -49,7 +49,7 @@ exp.
 ## Link
 ### [HP](http://bit-trade-one.co.jp/) 
 
-### [SupportSite(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
+### [サポートサイト(githubio)](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/Manual)
 <!--
 ## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
 
