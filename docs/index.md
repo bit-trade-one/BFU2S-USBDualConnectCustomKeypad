@@ -7,7 +7,7 @@
 
 一つのプログラマブルキーを押すと2つの端末に対して同時に信号を送ることが出来ます。  
 ![BBFU2S入力例AA](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BFU2S入力例AA.png)  
-
+  
 それぞれ異なる信号を同時に送ることも可能です。  
 ![BBFU2S入力例AB](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BBFU2S入力例AB.png)  
 
