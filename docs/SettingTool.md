@@ -14,7 +14,7 @@ PCの任意の位置を選択しファイルをダウンロードした後、解
 
 正面から見て左USB、右USBそれぞれから出力させる信号を割り当てます。  
 同時接続で無く、左右片方づつPCと接続し設定を行ってください。
-![1台づつ接続してください](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/settei.png)  
+![1台づつ接続してください](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/settei-1.png)  
 
 左系統の設定は左USB、右系統の設定は右USBと接続することで設定できます。
 
