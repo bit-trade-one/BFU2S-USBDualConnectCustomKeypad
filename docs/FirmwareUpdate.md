@@ -6,16 +6,16 @@
 
 ## 1.準備
 - ### HIDBootLoader.exeを任意の場所にダウンロードしてください。
-   [HIDBootLoader.exeダウンロードリンク](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/HIDBootLoader.exe) 
+ [HIDBootLoader.exeダウンロードリンク](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/HIDBootLoader.exe) 
 
 
-   こちらは、Microchipが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です。  
-   HIDBootLoader.exeは.NET framework 2.0を用いて作成されています。
-   HIDBootLoader.exeがうまく起動しない場合、MicrosoftのHP等からダウンロードし、インストールする必要があります。
-   “Microsoft .NET framework”等のキーワードで検索を行い入手してください。  
+こちらは、Microchipが公開しているライブラリ「MCHPFSUSB」の中にある物と同一です。  
+HIDBootLoader.exeは.NET framework 2.0を用いて作成されています。
+HIDBootLoader.exeがうまく起動しない場合、MicrosoftのHP等からダウンロードし、インストールする必要があります。
+“Microsoft .NET framework”等のキーワードで検索を行い入手してください。  
 
 - ### BFU2Sの必要なファームウェアを任意の場所にダウンロードしてください。
-   (最新)[BFU2Sファームウェアダウンロードリンク(v001)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/BFU2S_v001full.zip)
+(最新)[BFU2Sファームウェアダウンロードリンク(v001)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/BFU2S_v001full.zip)
   
 ## 2. ファームウェア書き込み
 - ### BFU2S設定ツール右下、ファームウェアアップデートよりBOOTモードにします。
