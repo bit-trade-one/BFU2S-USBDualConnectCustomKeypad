@@ -35,3 +35,4 @@ USBが接続されると上部赤LEDが光ります。
 ## リンク
 - [BFU2S-HP](https://bit-trade-one.co.jp/bfu2s)  
 - [BFU2S-GitHub](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad)  
+- [ビット・トレード・ワン-お問い合わせ](https://bit-trade-one.co.jp/contactus/)
