@@ -1,7 +1,11 @@
 [![BTO-logo](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/logo.png)](https://bit-trade-one.co.jp/)
 ## 設定ツール
-- ### [設定ツールダウンロードリンク(ver.1.0.0)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/BFU2S_CT_v100.zip)
+- ### [最新設定ツールダウンロードリンク(ver.1.0.0)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/BFU2S_CT_v100.zip)
 - [設定ツール使用方法](SettingTool.md)  
+
+## ファームウェア(ハードウェアの中に書き込まれているソフトウェア)
+- [最新ファームウェアダウンロードリンク(ver.001)]()
+- [ファームウェアアップデート方法](FirmwareUpdate.md)  
 
 ## 概要
 
