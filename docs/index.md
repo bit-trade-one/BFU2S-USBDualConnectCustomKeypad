@@ -14,12 +14,13 @@
 それぞれ異なる信号を同時に送ることも可能です。  
 ![BBFU2S入力例AB](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BBFU2S入力例AB.png)  
 
-
-画像  
 プログラマブルキーが12個あります。  
+![image](https://user-images.githubusercontent.com/85532743/169978684-ef741fb9-d47c-4103-9440-714ee7560861.png)  
+
   
-画像  
-USBが接続されると上部赤LEDが光ります。  
+  
+USBが接続されると上部赤LEDが光ります。
+![image](https://user-images.githubusercontent.com/85532743/169979359-f1e8dc83-841f-4cc7-9f94-795abfca4298.png)
 正面から見て左に接続されると左のLEDが、  
 正面から見て右に接続されると右のLEDが光ります。  
 
