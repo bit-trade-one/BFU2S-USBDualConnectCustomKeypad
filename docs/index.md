@@ -3,7 +3,7 @@
 - ### [最新設定ツールダウンロードリンク(ver.1.0.0)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/BFU2S_CT_v100.zip)
 - [設定ツール使用方法](SettingTool.md)  
 
-## ファームウェア(ハードウェアの中に書き込まれているソフトウェア)
+## ファームウェア
 - [ファームウェアアップデート方法](FirmwareUpdate.md)  
 
 ## 概要
