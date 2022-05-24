@@ -47,7 +47,7 @@ exp.
 ## Link
 -  [BFU2S-BTO製品ページ](https://bit-trade-one.co.jp/bfu2s)   
 製品の詳細を掲載しています。
--  [BFU2S-サポートサイト(githubio)](https://bit-trade-one.github.io/BFU2S-USBDualConnectCustomKeypad/)  
+-  [BFU2S-サポートサイト(github.io)](https://bit-trade-one.github.io/BFU2S-USBDualConnectCustomKeypad/)  
 使い方・設定ツール使用法はこちらに記載がございます。
 <!--
 ## [アプリケーションソフトウェア](https://github.com/bit-trade-one/-ADXXXXX-Template/raw/master/App/)  
