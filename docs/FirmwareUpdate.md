@@ -17,7 +17,7 @@
 - ### BFU2Sの必要なファームウェアを任意の場所にダウンロードしてください。
    (最新)[BFU2Sファームウェアダウンロードリンク(v001)](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/BFU2S_v001full.zip)
   
-## 2. BOOTモード
+## 2. ファームウェア書き込み
 - ### BFU2S設定ツール右下、ファームウェアアップデートよりBOOTモードにします。
 ![image](https://user-images.githubusercontent.com/85532743/169973945-58bb5562-a946-4bd4-a594-c87b252aa4d1.png)  
 
