@@ -24,6 +24,10 @@ USBが接続されると上部赤LEDが光ります。
 正面から見て左に接続されると左のLEDが、  
 正面から見て右に接続されると右のLEDが光ります。  
 
+USB端子はType-Bです。  
+![image](https://user-images.githubusercontent.com/85532743/170157595-387cac61-cc17-4411-a6ef-cca0e3e6ed01.png)  
+
+
 ## よくある質問
 - [Q&A](FAQ.md)  
 
