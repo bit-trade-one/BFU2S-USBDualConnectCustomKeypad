@@ -22,8 +22,8 @@
 - __ファームウェアの書き換えウィンドウで「はい」を選択してください。本体がBOOTモードに入ります。__    
 ![image](https://user-images.githubusercontent.com/85532743/169974361-e444d12f-f16a-44c8-b4d0-2254f0bf1330.png)  
 
-- __先程ダウンロードしたHIDBootLoader.exeを立ち上げてください。__  
-![image](https://user-images.githubusercontent.com/85532743/169975152-20120bc4-86d2-4408-8ef2-771e46ad56bd.png)  
+- __先程ダウンロードしたHIDBootLoader.exeを立ち上げてください。__    
+![image](https://user-images.githubusercontent.com/85532743/170158526-76b20a94-d8ee-4429-b6af-8e27f3d92fe6.png)  
 デバイスが認識されると上図の様に「Device attached」と表示されます。  
 初めてBOOTモードで接続した時には、自動的にPCにドライバがインストールされます。（約１分程時間かかります） 
    
