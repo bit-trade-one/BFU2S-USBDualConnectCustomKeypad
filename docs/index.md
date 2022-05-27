@@ -15,7 +15,7 @@
 ![BBFU2S入力例AB](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BBFU2S入力例AB.png)  
 
 プログラマブルキーが12個あります。   
-マウス/キーボード/ジョイパッドの入力を割り当てられます。  
+マウス/キーボード/ジョイパッドの機能を割り当てられます。  
 ![image](https://user-images.githubusercontent.com/85532743/169978684-ef741fb9-d47c-4103-9440-714ee7560861.png)  
 
   
