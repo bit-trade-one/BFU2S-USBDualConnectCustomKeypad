@@ -40,4 +40,5 @@ USB端子はType-Bです。
 ## リンク
 - [BFU2S-HP](https://bit-trade-one.co.jp/bfu2s)  
 - [BFU2S-GitHub](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad)  
+- [BFU2S-公式オンラインショップBTOS](https://btoshop.jp/products/bfu2s?_pos=1&_sid=47221d77e&_ss=r)
 - [ビット・トレード・ワン-お問い合わせ](https://bit-trade-one.co.jp/contactus/)
