@@ -6,6 +6,10 @@
 ## ファームウェア
 - [ファームウェアアップデート方法](FirmwareUpdate.md)  
 
+## よくある質問
+- [Q&A](FAQ.md)  
+
+
 ## 概要
 
 一つのプログラマブルキーを押すと2つの端末に対して同時に信号を送ることが出来ます。  
@@ -29,8 +33,6 @@ USB端子はType-Bです。
 ![image](https://user-images.githubusercontent.com/85532743/170157595-387cac61-cc17-4411-a6ef-cca0e3e6ed01.png)  
 
 
-## よくある質問
-- [Q&A](FAQ.md)  
 
 ## 設計データ
 - [寸法図](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/blob/master/Dimensions/BFU2S%E5%AF%B8%E6%B3%95.png)  
