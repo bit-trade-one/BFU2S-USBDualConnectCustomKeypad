@@ -25,8 +25,8 @@ BFU2Sはキーボード/マウス/ゲームパッドの 機能を持った複合
   
 そのような機器でBFU2Sを使用できるようキーボードのみとして振る舞う専用設定ツール・ファームウェアを用意しました。
 
-- [キーボードのみの設定ツール_BFU2S_CT_v900.exe クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/KeyboardOnly/BFU2S_CT_v900.zip)  
-- [キーボードのみのファームウェア_BFU2S_v901.hex クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/KeyboardOnly/BFU2S_v901.zip)  
+- [キーボードのみ用設定ツール_BFU2S_CT_v900.exe クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/KeyboardOnly/BFU2S_CT_v900.zip)  
+- [キーボードのみ用ファームウェア_BFU2S_v901.hex クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/KeyboardOnly/BFU2S_v901.zip)  
 
 キーボードのみモードで使用する場合  
 キーボードのみの設定ツールと  
