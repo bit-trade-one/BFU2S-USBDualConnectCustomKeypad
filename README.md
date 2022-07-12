@@ -1,5 +1,5 @@
 # BFU2S-USBDualConnectCustomKeypad
-<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/BFU2S.jpg" width="420px">  
+<img src="https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/05/DSC09550.jpg" width="420px">  
 
 一つのコントローラで2つのPC等を同時制御するために開発された、  
 プログラマブルな12キーを搭載するHIDデバイス  
