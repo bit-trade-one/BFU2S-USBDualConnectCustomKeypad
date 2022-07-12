@@ -23,14 +23,27 @@
 BFU2Sはキーボード/マウス/ゲームパッドの 機能を持った複合デバイスのため、  
 複合デバイスを認識できていない機器では使用できない事があります。  
   
-そのような機器でBFU2Sを使用できるようキーボードのみの専用設定ツール・ファームウェアを用意しました。
+そのような機器でBFU2Sを使用できるようキーボードのみとして振る舞う専用設定ツール・ファームウェアを用意しました。
 
-- [キーボードのみの設定ツール_BFU2S_CT_v900.exe]()  
-- [キーボードのみのファームウェア_BFU2S_v901.hex]()  
+- [キーボードのみの設定ツール_BFU2S_CT_v900.exe クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/App/KeyboardOnly/BFU2S_CT_v900.zip)  
+- [キーボードのみのファームウェア_BFU2S_v901.hex クリックでダウンロード](https://github.com/bit-trade-one/BFU2S-USBDualConnectCustomKeypad/raw/master/Firmware/KeyboardOnly/BFU2S_v901.zip)  
 
 キーボードのみモードで使用する場合  
 キーボードのみの設定ツールと  
 キーボードのみのファームウェアが書き込まれたBFU2Sが必要です。
 
+BFU2Sは左右それぞれのUSBに１つづつ独立したコンピュータを持っています。  
+そのため、左右双方でキーボードのみ仕様にするには左右両方のファームウェアをアップデートする必要があります。  
+ファームウェアアップデート方法は[こちら](FirmwareUpdate.md)に記載がございます。
+
+![内部説明](https://user-images.githubusercontent.com/85532743/178427991-93adefd0-efd9-4879-8116-dd76bdf0295a.png)  
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/178427991-93adefd0-efd9-4879-8116-dd76bdf0295a.png)  
+  
+  
+左右で別々のファームウェアを持たせることも可能ですが、設定時はファームウェアに合わせた設定ツールを  
+ご使用ください。  
+
+![キーボードのみ説明](https://user-images.githubusercontent.com/85532743/178428018-c94cb56f-0b8b-4205-af9c-bf50155bb82e.png)  
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/178428018-c94cb56f-0b8b-4205-af9c-bf50155bb82e.png)
 
 
