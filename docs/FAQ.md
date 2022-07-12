@@ -38,8 +38,8 @@ BFU2Sは左右それぞれのUSBに１つづつ独立したコンピュータを
 ファームウェアアップデート方法は[こちら](FirmwareUpdate.md)に記載がございます。
 上記をダウンロードして手順に従いファームウェアアップデートを行ってください。
 
-![内部説明](https://user-images.githubusercontent.com/85532743/178427991-93adefd0-efd9-4879-8116-dd76bdf0295a.png)  
-[クリックで拡大](https://user-images.githubusercontent.com/85532743/178427991-93adefd0-efd9-4879-8116-dd76bdf0295a.png)  
+![内部説明](https://user-images.githubusercontent.com/85532743/178431549-345b9266-52a3-413d-985d-f7f0f4925fcc.png)
+[クリックで拡大](https://user-images.githubusercontent.com/85532743/178431549-345b9266-52a3-413d-985d-f7f0f4925fcc.png)  
   
   
 左右で別々のファームウェアを持たせることも可能ですが、設定時はファームウェアに合わせた設定ツールを  
